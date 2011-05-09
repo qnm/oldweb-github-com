@@ -1,0 +1,9 @@
+destination: www
+pygments: true
+markdown: rdiscount
+exclude: mkdocument
+lsi: false
+permalink: /articles/:title.html
+# leave blank for /
+url_root: 
+server_port: 3000
