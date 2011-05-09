@@ -87,7 +87,6 @@ img.bordered
   height:50px;
   margin:0 auto;
   padding:0 8px 0 20px;
-  width:640px;
 }
 
 #header h1
@@ -167,7 +166,7 @@ img.bordered
   padding:20px;
   position:relative;
   top:38px;
-  width:600px;
+  width:92%;
   z-index:2;
 }
 
@@ -412,7 +411,6 @@ img.bordered
   line-height:1.1em;
   margin:0 auto;
   padding:40px;
-  width:600px;
 }
 
 #footer a
