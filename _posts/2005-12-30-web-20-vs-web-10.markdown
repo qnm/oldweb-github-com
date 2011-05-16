@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 94
+layout: post
+title: |-
+  
+              Web 2.0 vs Web 1.0
+wordpress_url: http://www.sharp.id.au/?p=94
+---
+
+            <a href="http://mpt.net.nz/archive/2005/12/27/web-2">How to tell the difference betweent the two...</a>

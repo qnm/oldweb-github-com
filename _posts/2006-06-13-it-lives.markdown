@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 102
+layout: post
+title: It lives...
+wordpress_url: http://www.sharp.id.au/?p=102
+---
+<a href="http://www.inthemix.com.au/index.php">What do you think?</a> Version 7 went live last week, hopefully we'll see Version 7.1 pretty soon. That's when you'll see the *really* sweet stuff.
+
+Memcache seems to make the page build ridiculously fast. Anyone outside of Australia care to comment on the page load times?

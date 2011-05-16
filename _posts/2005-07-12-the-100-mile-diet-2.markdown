@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 64
+layout: post
+title: The 100-Mile Diet
+wordpress_url: http://www.sharp.id.au/?p=64
+---
+Quite a few blogs have noted an ongoing series in a <a href="http://www.thetyee.ca/">British Columbian newspaper</a> about the 100-mile diet, where a couple are <a href="http://www.thetyee.ca/Life/2005/06/28/HundredMileDiet/">attempting to live for a year on nothing but locally grown produce</a>. It's an interesting insight into our growing dependence on imported food and the problems faced when trying to 'do the right thing' and eat locally.

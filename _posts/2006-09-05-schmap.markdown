@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 119
+layout: post
+title: Schmap!
+wordpress_url: http://www.sharp.id.au/schmap/
+---
+I've had a (not very good) <a href="http://www.schmap.com/photos/p=41003010N00/c=SC5001586">photograph</a> that I had upload to Flickr included in the <a href="http://www.schmap.com/">Schmap!</a> online guide. I always upload my pics under a Creative Commons licence, and I guess that's one way to avoid paying Getty et al. for your images - harvest them using the Flickr API via metadata.

@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 115
+layout: post
+title: M*A*S*H*U*P
+wordpress_url: http://www.sharp.id.au/mashup/
+---
+Whilst doing some investigation into geomapping using <a href="http://maps.google.com">Google Maps</a> <a href="http://www.zoomin.com.au">et al</a>, I stumbled upon <a href="http://blogs.smh.com.au/mashup/">Mashup </a>on the <a href="http://www.smh.com.au/">SMH </a>website. The blog on <a href="http://blogs.smh.com.au/mashup/archives//004599.html">Google Maps adding Sydney street data</a> turned up an absolute gem - <a href="http://www.bikely.com">bikely.com</a>. For a while I've been wondering how to commute from my home in Cronulla to <a href="http://www.inthemix.com.au">my office</a>, and I've <a href="http://www.bikely.com/maps/bike-path/Cronulla-to-Central-Pitt-St">finally found the answer</a>. Hopefully I'll begin to shed some of my spare tyre if I do that a couple of times a week!

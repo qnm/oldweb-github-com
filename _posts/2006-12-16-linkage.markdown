@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 125
+layout: post
+title: Linkage
+wordpress_url: http://www.sharp.id.au/?p=125
+---
+Some interesting stuff I found on the web recently:
+<a href="http://travel.guardian.co.uk/article/2006/dec/14/diving.top10.southafrica">
+The Guardian's Top 10 Dive Sites</a>, <a href="http://www.youtube.com/watch?v=f2XQ97XHjVw">How to walk on water</a> and lastly, <a href="http://www.youtube.com/watch?v=6ufRrgnSEdU">Merry Christmas</a>.

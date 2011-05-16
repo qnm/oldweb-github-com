@@ -1,0 +1,7 @@
+--- 
+wordpress_id: 6
+layout: post
+title: Monopod
+wordpress_url: http://sharp.id.au/blog/monopod
+---
+<a href="http://usefulinc.com">Edd Dumbill</a> has created <a href="http://usefulinc.com/edd/blog/contents/2005/06/17-monopod/read">Monopod</a>, a nice GTK based podcast download client. It&apos;s very much in the early stages of development, but looks pretty nice.

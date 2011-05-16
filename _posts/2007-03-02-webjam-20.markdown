@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 130
+layout: post
+title: Web(jam) 2.0
+wordpress_url: http://www.sharp.id.au/webjam-20/
+---
+This morning my head hurts from a) beer last night and b) a mild allergy to mozzie bites. However, a) was most definitely worth it as I was at <a href="http://www.webjam.com.au">Webjam</a>!
+
+<a href="http://mrspeaker.webeisteddfod.com/">Earle Castledine</a> got first place with his Web Sequins demo, which will "make all your headings look like a Commodore 64 demo". It's a smart way of using CSS image maps to create monospaced fonts, by mapping text to image co-ordinates. His presentation was excellent too, so it was a worthy win. Flickr has a <a href="http://flickr.com/photos/charliebrewer/sets/72157594563531948/">bunch of pics</a> from the night too.
+
+Now I've just gotta get through Friday to make it to geekfest part deux - <a href="http://www.barcampsydney.org">BarCamp</a>.
