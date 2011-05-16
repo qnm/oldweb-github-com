@@ -11,17 +11,17 @@ Contrast this to my experience customising Gallery2, which was a much bigger pro
 Anyway, for anyone who wants to know how to programatically update or append to a wiki page, here's whatI came up with:
 
 
-<code>$myNewContent = "Brillant!";</code>
+<pre>$myNewContent = "Brillant!";</pre>
 
-<code>$articleName = "User_talk:" . $wgUser->getName(); // get the user talk page for the logged in user</code>
-<code>$articleTitle = Title::newFromText($articleName); // create a wiki title name from the friendly name</code>
-<code>$articleToUpdate = new Article ($articleTitle); // get an article instance</code>
+<pre>$articleName = "User_talk:" . $wgUser->getName(); // get the user talk page for the logged in user</pre>
+<pre>$articleTitle = Title::newFromText($articleName); // create a wiki title name from the friendly name</pre>
+<pre>$articleToUpdate = new Article ($articleTitle); // get an article instance</pre>
 
-<code>$currentContent = $articleToUpdate->getContentWithoutUsingSoManyDamnGlobals(); // i love comedy function names :-(
-</code>
-<code>$newContent = $currentContent . "\n" . $myNewContent; // create page content</code>
+<pre>$currentContent = $articleToUpdate->getContentWithoutUsingSoManyDamnGlobals(); // i love comedy function names :-(
+</pre>
+<pre>$newContent = $currentContent . "\n" . $myNewContent; // create page content</pre>
 
-<code>$articleToUpdate->quickEdit( $newContent ); // update the article with the new content</code>
+<pre>$articleToUpdate->quickEdit( $newContent ); // update the article with the new content</pre>
 
 
 Caveat Emptor - this doesn't take into account revisions, so you can't rollback a page after editing. I'm working on that though...
