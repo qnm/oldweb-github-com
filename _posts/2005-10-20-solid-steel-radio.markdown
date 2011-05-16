@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 89
-layout: post
+layout: article
 title: Solid Steel Radio
 wordpress_url: http://www.sharp.id.au/?p=89
 ---

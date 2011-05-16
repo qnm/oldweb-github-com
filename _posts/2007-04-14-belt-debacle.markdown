@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 136
-layout: post
+layout: article
 title: Belt Debacle
 wordpress_url: http://www.sharp.id.au/?p=136
 ---

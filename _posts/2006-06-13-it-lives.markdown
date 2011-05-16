@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 102
-layout: post
+layout: article
 title: It lives...
 wordpress_url: http://www.sharp.id.au/?p=102
 ---

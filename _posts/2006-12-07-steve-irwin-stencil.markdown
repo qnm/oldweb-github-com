@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 123
-layout: post
+layout: article
 title: Steve Irwin stencil
 wordpress_url: http://www.sharp.id.au/steve-irwin-stencil/
 ---

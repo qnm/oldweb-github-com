@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 44
-layout: post
+layout: article
 title: Opera CEO to swim from Norway to USA...
 wordpress_url: http://sharp.id.au/blog/opera
 ---

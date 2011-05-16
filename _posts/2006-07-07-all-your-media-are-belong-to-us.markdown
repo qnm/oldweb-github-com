@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 103
-layout: post
+layout: article
 title: All your media are belong to us...
 wordpress_url: http://www.sharp.id.au/?p=103
 ---

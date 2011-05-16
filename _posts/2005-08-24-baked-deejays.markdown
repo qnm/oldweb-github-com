@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 80
-layout: post
+layout: article
 title: Baked deejays...
 wordpress_url: http://www.sharp.id.au/?p=80
 ---

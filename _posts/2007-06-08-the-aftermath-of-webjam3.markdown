@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 148
-layout: post
+layout: article
 title: The aftermath of Webjam3
 wordpress_url: http://www.sharp.id.au/the-aftermath-of-webjam3/
 ---

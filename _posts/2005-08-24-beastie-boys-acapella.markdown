@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 79
-layout: post
+layout: article
 title: Beastie Boys Acapella
 wordpress_url: http://www.sharp.id.au/?p=79
 ---

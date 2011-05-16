@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 151
-layout: post
+layout: article
 title: Mock Chop using PHP and Simpletest
 excerpt: |
   One of my reservations about adopting Unit Testing as a standard for my team was that, despite being pretty good developers, a fair amount of our code ends up being coupled.

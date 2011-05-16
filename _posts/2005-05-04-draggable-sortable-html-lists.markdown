@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 40
-layout: post
+layout: article
 title: Draggable, sortable HTML lists
 wordpress_url: http://sharp.id.au/blog/design/draggable
 ---

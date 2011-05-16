@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 45
-layout: post
+layout: article
 title: Honeymoon Photos, Tony Hart style
 wordpress_url: http://sharp.id.au/blog/photos
 ---

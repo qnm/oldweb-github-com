@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 101
-layout: post
+layout: article
 title: Baddiel and Skinner Podcast
 wordpress_url: http://www.sharp.id.au/?p=101
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 53
-layout: post
+layout: article
 title: Critical interface evaluation of Ubuntu
 wordpress_url: http://sharp.id.au/blog/design/002
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 83
-layout: post
+layout: article
 title: Audioscrobbler and Last.fm  web services
 wordpress_url: http://www.sharp.id.au/?p=83
 ---

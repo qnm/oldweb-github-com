@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 65
-layout: post
+layout: article
 title: Opera House Detail, Sydney
 wordpress_url: http://www.sharp.id.au/?p=65
 ---

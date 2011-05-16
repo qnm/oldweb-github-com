@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 125
-layout: post
+layout: article
 title: Linkage
 wordpress_url: http://www.sharp.id.au/?p=125
 ---

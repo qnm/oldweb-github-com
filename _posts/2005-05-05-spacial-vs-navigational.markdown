@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 36
-layout: post
+layout: article
 title: Spacial vs. Navigational
 wordpress_url: http://sharp.id.au/blog/gnomeSpacial
 ---

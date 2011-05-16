@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 108
-layout: post
+layout: article
 title: grainy cronulla sunset
 wordpress_url: http://www.sharp.id.au/?p=108
 ---

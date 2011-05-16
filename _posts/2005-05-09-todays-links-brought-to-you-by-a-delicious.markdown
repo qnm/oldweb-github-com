@@ -1,7 +1,7 @@
 --- 
 wordpress_id: 33
-layout: post
-title: Todays links, brought to you by &lt;a href=&apos;http://del.icio.us/quannum&apos;&gt;del.icio.us&lt;/a&gt;
+layout: article
+title: Todays links, brought to you by del.icio.us
 wordpress_url: http://sharp.id.au/blog/delicious/links_2005-05-09
 ---
 <a href="http://bitworking.org/news/I_m_sorry__I_can_t_kiss_it_and_make_it_better_">So, Google has broken your webapp?</a>

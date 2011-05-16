@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 147
-layout: post
+layout: article
 title: RJS befuddlement
 wordpress_url: http://www.sharp.id.au/rjs-beffudlement/
 ---

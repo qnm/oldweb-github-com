@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 121
-layout: post
+layout: article
 title: Socially Engineered Spam
 wordpress_url: http://www.sharp.id.au/socially-engineered-spam/
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 29
-layout: post
+layout: article
 title: Dive into Greasemonkey
 wordpress_url: http://sharp.id.au/blog/greaseMonkey
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 97
-layout: post
+layout: article
 title: "            D 'n' B mix for download"
 wordpress_url: http://www.sharp.id.au/?p=97
 ---

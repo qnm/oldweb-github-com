@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 54
-layout: post
+layout: article
 title: This years black...
 wordpress_url: http://sharp.id.au/blog/design/004
 ---

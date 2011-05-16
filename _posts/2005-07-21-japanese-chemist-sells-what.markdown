@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 71
-layout: post
+layout: article
 title: Japanese Chemist Sells What?
 wordpress_url: http://www.sharp.id.au/?p=71
 ---

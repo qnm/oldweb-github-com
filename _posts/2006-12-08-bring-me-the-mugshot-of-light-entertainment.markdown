@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 124
-layout: post
+layout: article
 title: Bring me the mugshot of light entertainment
 wordpress_url: http://www.sharp.id.au/?p=124
 ---

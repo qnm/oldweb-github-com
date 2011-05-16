@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 73
-layout: post
+layout: article
 title: Hasta La Vista, Baby!
 wordpress_url: http://www.sharp.id.au/?p=73
 ---

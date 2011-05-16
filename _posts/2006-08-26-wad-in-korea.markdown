@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 114
-layout: post
+layout: article
 title: Wad In Korea
 wordpress_url: http://www.sharp.id.au/wad-in-korea/
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 150
-layout: post
+layout: article
 title: Nice example of why we use FAIL testing in TDD
 wordpress_url: http://www.sharp.id.au/nice-example-of-why-we-use-fail-testing-in-tdd/
 ---

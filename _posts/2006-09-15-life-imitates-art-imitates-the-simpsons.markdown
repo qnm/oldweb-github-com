@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 120
-layout: post
+layout: article
 title: Life imitates art, imitates the Simpsons
 wordpress_url: http://www.sharp.id.au/?p=120
 ---

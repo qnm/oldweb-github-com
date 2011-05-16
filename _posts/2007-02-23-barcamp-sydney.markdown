@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 129
-layout: post
+layout: article
 title: BarCamp Sydney
 wordpress_url: http://www.sharp.id.au/barcamp-sydney/
 ---

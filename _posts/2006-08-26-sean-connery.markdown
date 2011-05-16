@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 113
-layout: post
+layout: article
 title: Sean Connery
 wordpress_url: http://www.sharp.id.au/sean-connery/
 ---

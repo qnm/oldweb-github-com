@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 61
-layout: post
+layout: article
 title: Our new hoosie
 wordpress_url: http://www.sharp.id.au/?p=61
 ---

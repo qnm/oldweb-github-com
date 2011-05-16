@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 41
-layout: post
+layout: article
 title: Reporting using XSLT
 wordpress_url: http://sharp.id.au/blog/xslt/xsltTables
 ---

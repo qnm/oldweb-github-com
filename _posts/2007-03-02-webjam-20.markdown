@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 130
-layout: post
+layout: article
 title: Web(jam) 2.0
 wordpress_url: http://www.sharp.id.au/webjam-20/
 ---

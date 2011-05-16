@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 49
-layout: post
+layout: article
 title: Lines of desire?
 wordpress_url: http://sharp.id.au/blog/design/linesOfDesire
 ---

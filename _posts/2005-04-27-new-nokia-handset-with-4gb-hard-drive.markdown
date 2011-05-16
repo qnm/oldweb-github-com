@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 43
-layout: post
+layout: article
 title: New Nokia handset with 4Gb hard drive
 wordpress_url: http://sharp.id.au/blog/mobile/newnokia
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 117
-layout: post
+layout: article
 title: Vale, Steve Irwin
 wordpress_url: http://www.sharp.id.au/vale-steve-irwin/
 ---

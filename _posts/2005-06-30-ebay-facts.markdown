@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 4
-layout: post
+layout: article
 title: Ebay Facts
 wordpress_url: http://sharp.id.au/blog/ebay
 ---

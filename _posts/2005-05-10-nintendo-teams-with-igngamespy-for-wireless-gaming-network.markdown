@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 30
-layout: post
+layout: article
 title: Nintendo Teams with IGN/GameSpy for Wireless Gaming Network
 wordpress_url: http://sharp.id.au/blog/wirelessGaming
 ---

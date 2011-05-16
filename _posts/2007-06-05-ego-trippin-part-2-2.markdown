@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 146
-layout: post
+layout: article
 title: Ego Trippin' (Part 2)
 wordpress_url: http://www.sharp.id.au/ego-trippin-part-2-2/
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 28
-layout: post
+layout: article
 title: BBC Backstage - remix BBC content
 wordpress_url: http://sharp.id.au/blog/bbcBackstage
 ---

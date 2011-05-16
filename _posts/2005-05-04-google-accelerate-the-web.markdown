@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 37
-layout: post
+layout: article
 title: Google Accelerate the Web
 wordpress_url: http://sharp.id.au/blog/webAccelerator
 ---

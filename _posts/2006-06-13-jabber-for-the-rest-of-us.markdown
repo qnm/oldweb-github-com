@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 100
-layout: post
+layout: article
 title: Jabber for the rest of us
 wordpress_url: http://www.sharp.id.au/?p=100
 ---

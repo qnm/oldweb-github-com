@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 91
-layout: post
+layout: article
 title: Nokia's new S60 browser
 wordpress_url: http://www.sharp.id.au/?p=91
 ---

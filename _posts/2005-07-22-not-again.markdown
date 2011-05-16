@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 72
-layout: post
+layout: article
 title: Not again...
 wordpress_url: http://www.sharp.id.au/?p=72
 ---

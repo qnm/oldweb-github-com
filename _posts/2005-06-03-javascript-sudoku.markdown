@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 10
-layout: post
+layout: article
 title: Javascript Sudoku
 wordpress_url: http://sharp.id.au/blog/sudoku
 ---

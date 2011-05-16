@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 88
-layout: post
+layout: article
 title: Flock Preview
 wordpress_url: http://www.sharp.id.au/?p=88
 ---

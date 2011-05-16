@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 58
-layout: post
+layout: article
 title: The Perfect G 'n' T
 wordpress_url: http://jedi.cx/?p=58
 ---

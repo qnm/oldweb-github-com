@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 67
-layout: post
+layout: article
 title: Defeating CAPTCHA
 wordpress_url: http://www.sharp.id.au/?p=67
 ---

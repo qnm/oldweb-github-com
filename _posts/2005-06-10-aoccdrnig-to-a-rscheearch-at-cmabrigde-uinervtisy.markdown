@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 9
-layout: post
+layout: article
 title: Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy,
 wordpress_url: http://sharp.id.au/blog/reading
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 24
-layout: post
+layout: article
 title: Domo-Kun Genius
 wordpress_url: http://sharp.id.au/blog/domoPod
 ---

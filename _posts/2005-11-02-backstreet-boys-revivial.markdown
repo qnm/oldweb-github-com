@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 90
-layout: post
+layout: article
 title: Backstreet Boys Revivial
 wordpress_url: http://www.sharp.id.au/?p=90
 ---

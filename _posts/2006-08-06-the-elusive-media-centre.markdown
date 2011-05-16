@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 109
-layout: post
+layout: article
 title: The elusive media centre...
 wordpress_url: http://www.sharp.id.au/?p=109
 ---

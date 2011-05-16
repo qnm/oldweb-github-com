@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 138
-layout: post
+layout: article
 title: Uefa Cup final awarded to Hampden
 wordpress_url: http://www.sharp.id.au/uefa-cup-final-awarded-to-hampden/
 ---
