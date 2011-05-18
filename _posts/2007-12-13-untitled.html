@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Untitled
+published: true
+---
+<blockquote class="posterous_short_quote"><p>A few months ago I attended a workshop with Eric Evans, and he talked about a certain style of interface which we decided to name a fluent interface. It&#8217;s not a common style, but one we think should be better known. Probably the best way to describe it is by example.</p>
+
+<p>The simplest example is probably from Eric&#8217;s timeAndMoney library. To make a time interval in the usual way we might see something like this:</p>
+
+<p>&#8212; TimePoint fiveOClock, sixOClock;<br />
+   &#8230;<br />
+&#8212; TimeInterval meetingTime = new TimeInterval(fiveOClock, sixOClock);</p>
+
+<p><br />
+The timeAndMoney library user would do it this way:</p>
+
+<p>&#8212; TimeInterval meetingTime = fiveOClock.until(sixOClock);</p>
+
+<p>Probably the most important thing to notice about this style is that the intent is to do something along the lines of an internal DomainSpecificLanguage. Indeed this is why we chose the term &#8216;fluent&#8217; to describe it, in many ways the two terms are synonyms. The API is primarily designed to be readable and to flow. The price of this fluency is more effort, both in thinking and in the API construction itself. The simple API of constructor, setter, and addition methods is much easier to write.</p></blockquote>
+                  <p>Martin Fowler on Fluent Interfaces: <a href="http://martinfowler.com/bliki/FluentInterface.html">http://martinfowler.com/bliki/FluentInterface.html</a></p>

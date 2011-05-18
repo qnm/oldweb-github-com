@@ -1,11 +1,10 @@
 ---
-layout: quannum
+layout: skeleton
 title: The Havers of Rob Sharp
 ---
-{% for post in site.posts %}
+{% for post in site.posts limit:10 %}
       <div class="post-summary">
-        <h2 style="clear: none"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p class="created_at dateline">Published: <span class="reldate">{{ post.date }}</span></p>
+        <h3 style="clear: none"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>{{ post.subtitle }}</p>
       </div>
       <hr />

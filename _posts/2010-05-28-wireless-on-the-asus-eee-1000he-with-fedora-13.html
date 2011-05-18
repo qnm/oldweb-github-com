@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Wireless on the ASUS EEE 1000HE with Fedora 13
+published: true
+---
+<p>Another NB for me in the future. For whatever reason, unlike Ubuntu Lucid, Fedora 13 doesn't work with the Ralink RT2860 card in the ASUS 1000HE out of the box. Actually, it does, but it doesn't work with WPA2, which makes it useless for me. The fix is to install the official Ralink drivers, of which you can get via <a href="http://download1.rpmfusion.org/free/fedora/releases/13/Everything/i386/os/repoview/rt2860.html">rpmfusion</a>.</p>
+<p><a href="http://fedoraforum.org/forum/showthread.php?t=197413">Every</a> <a href="http://forum.eeeuser.com/viewtopic.php?pid=715633">online guide</a> I read made the install sound so simple:</p>
+<blockquote class="posterous_short_quote">
+<p>sudo yum install rt2860. </p>
+</blockquote>
+<p>For me, this didn't work.</p>
+<p>For whatever reason, I have a -PAE kernel installed (determine from uname -r), which means that in addition to yum install rt2860, you must also bring across the -PAE modules:</p>
+<blockquote class="posterous_short_quote">
+<p>sudo yum install kmod-rt2860-PAE.i686</p>
+</blockquote>
+<p>Then, you can enable your wireless with Fn-F2, and off you go!</p>
