@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 66
-layout: article
+layout: post
 title: Careful who you link to...
 wordpress_url: http://www.sharp.id.au/?p=66
 ---

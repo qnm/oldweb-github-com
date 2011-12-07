@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 106
-layout: article
+layout: post
 title: Linked all over
 wordpress_url: http://www.sharp.id.au/?p=106
 ---

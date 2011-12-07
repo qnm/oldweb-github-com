@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 126
-layout: article
+layout: post
 title: Tokyo Nightscape
 wordpress_url: http://www.sharp.id.au/tokyo-nightscape/
 ---

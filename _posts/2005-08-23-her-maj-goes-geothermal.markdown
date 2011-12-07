@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 76
-layout: article
+layout: post
 title: Her Maj goes geothermal
 excerpt: Treehugger reports that Queen Elizabeth has installed geothermal heating at Buckingham Palace.
 wordpress_url: http://www.sharp.id.au/?p=76

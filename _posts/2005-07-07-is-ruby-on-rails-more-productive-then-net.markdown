@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 59
-layout: article
+layout: post
 title: Is Ruby-On-Rails more productive than .net?
 wordpress_url: http://jedi.cx/?p=59
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 75
-layout: article
+layout: post
 title: Legal P2P, Finally...
 excerpt: PlayLouder have struck an agreement with Sony-BMG to legally share any song in the Sony-BMG catalog with any other PlayLouder MSP customer.
 wordpress_url: http://www.sharp.id.au/?p=75

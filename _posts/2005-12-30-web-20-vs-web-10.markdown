@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 94
-layout: article
+layout: post
 title: |-
   
               Web 2.0 vs Web 1.0

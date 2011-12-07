@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 48
-layout: article
+layout: post
 title: Floating Images Quiz
 wordpress_url: http://sharp.id.au/blog/floatImageCaption
 ---

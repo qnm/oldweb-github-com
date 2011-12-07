@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 69
-layout: article
+layout: post
 title: The Passion of the Christmas?
 wordpress_url: http://www.sharp.id.au/?p=69
 ---

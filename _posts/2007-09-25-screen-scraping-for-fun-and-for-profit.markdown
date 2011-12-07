@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 156
-layout: article
+layout: post
 title: Screen Scraping for Fun and For Profit
 wordpress_url: http://www.sharp.id.au/screen-scraping-for-fun-and-for-profit/
 ---

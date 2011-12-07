@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 127
-layout: article
+layout: post
 title: Shhuave and Shhophisticated
 wordpress_url: http://www.sharp.id.au/?p=127
 ---

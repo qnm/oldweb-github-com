@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 52
-layout: article
+layout: post
 title: AW Stats uncovering dns badness
 wordpress_url: http://sharp.id.au/blog/awstats
 ---

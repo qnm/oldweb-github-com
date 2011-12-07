@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 93
-layout: article
+layout: post
 title: "            Brad Fitzpatrick on scaling MySQL"
 wordpress_url: http://www.sharp.id.au/?p=93
 ---

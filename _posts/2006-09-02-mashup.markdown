@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 115
-layout: article
+layout: post
 title: M*A*S*H*U*P
 wordpress_url: http://www.sharp.id.au/mashup/
 ---

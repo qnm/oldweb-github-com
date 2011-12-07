@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 46
-layout: article
+layout: post
 title: Elbow Etiquette
 wordpress_url: http://sharp.id.au/blog/design/elbowEtiquette
 ---

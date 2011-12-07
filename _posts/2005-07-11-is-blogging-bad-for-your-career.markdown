@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 62
-layout: article
+layout: post
 title: Is blogging bad for your career?
 wordpress_url: http://www.sharp.id.au/?p=62
 ---

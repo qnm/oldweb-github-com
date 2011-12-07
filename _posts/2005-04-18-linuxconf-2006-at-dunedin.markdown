@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 50
-layout: article
+layout: post
 title: LinuxConf 2006 at Dunedin
 wordpress_url: http://sharp.id.au/blog/linuxconf
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 82
-layout: article
+layout: post
 title: Astrodome and beyond
 wordpress_url: http://www.sharp.id.au/?p=82
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 55
-layout: article
+layout: post
 title: Publishing with jabber
 wordpress_url: http://sharp.id.au/blog/dev/003
 ---

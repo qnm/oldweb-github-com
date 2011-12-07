@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 119
-layout: article
+layout: post
 title: Schmap!
 wordpress_url: http://www.sharp.id.au/schmap/
 ---

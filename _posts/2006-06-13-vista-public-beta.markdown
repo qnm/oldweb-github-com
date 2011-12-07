@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 99
-layout: article
+layout: post
 title: Vista Public Beta
 wordpress_url: http://www.sharp.id.au/?p=99
 ---

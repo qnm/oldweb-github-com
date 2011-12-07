@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 143
-layout: article
+layout: post
 title: Animal Crossing
 wordpress_url: http://www.sharp.id.au/animal-crossing/
 ---

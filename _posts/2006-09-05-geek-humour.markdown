@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 118
-layout: article
+layout: post
 title: Geek Humour
 wordpress_url: http://www.sharp.id.au/geek-humour/
 ---

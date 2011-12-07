@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 39
-layout: article
+layout: post
 title: Introducing Selenium
 wordpress_url: http://sharp.id.au/blog/design/testingFramework
 ---

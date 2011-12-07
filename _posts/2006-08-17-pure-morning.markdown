@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 111
-layout: article
+layout: post
 title: Pure morning
 wordpress_url: http://www.sharp.id.au/pure-morning/
 ---

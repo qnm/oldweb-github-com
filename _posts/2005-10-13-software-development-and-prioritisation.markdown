@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 84
-layout: article
+layout: post
 title: Software Development and Prioritisation
 wordpress_url: http://www.sharp.id.au/?p=84
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 116
-layout: article
+layout: post
 title: Nice one, Banksy
 wordpress_url: http://www.sharp.id.au/nice-one-banksy/
 ---

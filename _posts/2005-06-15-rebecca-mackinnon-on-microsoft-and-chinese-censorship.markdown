@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 8
-layout: article
+layout: post
 title: Rebecca MacKinnon on Microsoft and Chinese censorship
 wordpress_url: http://sharp.id.au/blog/scobleRebuttal
 ---

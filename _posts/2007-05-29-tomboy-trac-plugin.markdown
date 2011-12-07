@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 144
-layout: article
+layout: post
 title: Tomboy Trac Plugin
 wordpress_url: http://www.sharp.id.au/tomboy-trac-plugin/
 ---

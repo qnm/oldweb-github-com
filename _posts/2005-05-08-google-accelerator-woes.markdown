@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 35
-layout: article
+layout: post
 title: Google Accelerator Woes
 wordpress_url: http://sharp.id.au/blog/googleAccelUpdate
 ---

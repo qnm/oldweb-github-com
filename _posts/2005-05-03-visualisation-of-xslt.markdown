@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 42
-layout: article
+layout: post
 title: Visualisation of XSLT
 wordpress_url: http://sharp.id.au/blog/xslt/xsltReports
 ---

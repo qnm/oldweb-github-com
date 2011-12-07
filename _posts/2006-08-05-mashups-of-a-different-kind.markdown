@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 105
-layout: article
+layout: post
 title: Mashups of a different kind...
 wordpress_url: http://www.sharp.id.au/?p=105
 ---

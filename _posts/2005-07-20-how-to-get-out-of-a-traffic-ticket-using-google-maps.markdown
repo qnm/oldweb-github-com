@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 70
-layout: article
+layout: post
 title: How to get out of a traffic ticket using Google Maps
 wordpress_url: http://www.sharp.id.au/?p=70
 ---

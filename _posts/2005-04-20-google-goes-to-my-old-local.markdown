@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 47
-layout: article
+layout: post
 title: Google goes to my old local
 wordpress_url: http://sharp.id.au/blog/googleLocal
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 142
-layout: article
+layout: post
 title: Getting Things Done with a Moleskine
 wordpress_url: http://www.sharp.id.au/getting-things-done-with-a-moleskine/
 ---

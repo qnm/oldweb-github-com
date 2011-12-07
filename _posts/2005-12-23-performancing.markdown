@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 92
-layout: article
+layout: post
 title: "            Performancing!"
 wordpress_url: http://www.sharp.id.au/?p=92
 ---

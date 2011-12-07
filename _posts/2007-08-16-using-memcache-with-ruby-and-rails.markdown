@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 154
-layout: article
+layout: post
 title: Using Memcache with Ruby and Rails
 wordpress_url: http://www.sharp.id.au/using-memcache-with-ruby-and-rails/
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 153
-layout: article
+layout: post
 title: Avoiding Dogpiling with Memcache
 wordpress_url: http://www.sharp.id.au/avoiding-dogpiling-with-memcache/
 ---

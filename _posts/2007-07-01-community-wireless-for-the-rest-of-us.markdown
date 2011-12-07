@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 152
-layout: article
+layout: post
 title: Community wireless for the rest of us
 wordpress_url: http://www.sharp.id.au/community-wireless-for-the-rest-of-us/
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 85
-layout: article
+layout: post
 title: Ubuntu launch The Fridge
 wordpress_url: http://www.sharp.id.au/?p=85
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 38
-layout: article
+layout: post
 title: Adventures on the wheels of FOAF&lt;img src=&quot;http://sharp.id.au/images/foafTiny.gif&quot; alt=&quot;FOAF&quot; /&gt;
 wordpress_url: http://sharp.id.au/blog/foaf
 ---

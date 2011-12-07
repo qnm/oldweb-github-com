@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 112
-layout: article
+layout: post
 title: Flickr Uploadr on the N70
 wordpress_url: http://www.sharp.id.au/flickr-uploadr-on-the-n70/
 ---

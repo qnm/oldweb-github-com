@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 51
-layout: article
+layout: post
 title: UsageAgent applet for Winders
 wordpress_url: http://sharp.id.au/blog/usageagent
 ---

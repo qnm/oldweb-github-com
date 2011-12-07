@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 137
-layout: article
+layout: post
 title: Subterranean Homesick Minimal
 wordpress_url: http://www.sharp.id.au/?p=137
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 139
-layout: article
+layout: post
 title: Pump up the Webjam
 wordpress_url: http://www.sharp.id.au/pump-up-the-webjam/
 ---

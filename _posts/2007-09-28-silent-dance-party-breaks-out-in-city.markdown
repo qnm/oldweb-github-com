@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 157
-layout: article
+layout: post
 title: Silent dance party breaks out in city
 wordpress_url: http://www.sharp.id.au/silent-dance-party-breaks-out-in-city/
 ---

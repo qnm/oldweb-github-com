@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 110
-layout: article
+layout: post
 title: Awesome Lily Allen Track Remix
 wordpress_url: http://www.sharp.id.au/awesome-lily-allen-track-remix/
 ---

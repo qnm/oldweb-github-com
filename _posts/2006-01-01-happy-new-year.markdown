@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 95
-layout: article
+layout: post
 title: Happy New Year!
 wordpress_url: http://www.sharp.id.au/?p=95
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 96
-layout: article
+layout: post
 title: Hacking Mediawiki
 wordpress_url: http://www.sharp.id.au/?p=96
 ---

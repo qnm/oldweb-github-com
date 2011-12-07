@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 11
-layout: article
+layout: post
 title: Nokia launches Linux-based 770 Net Appliance
 wordpress_url: http://sharp.id.au/blog/mobile/nokia770
 ---

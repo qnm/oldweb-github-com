@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 104
-layout: article
+layout: post
 title: Livejournal and Jabber
 wordpress_url: http://www.sharp.id.au/?p=104
 ---

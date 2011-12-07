@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 81
-layout: article
+layout: post
 title: Traffic signs remixed
 wordpress_url: http://www.sharp.id.au/?p=81
 ---

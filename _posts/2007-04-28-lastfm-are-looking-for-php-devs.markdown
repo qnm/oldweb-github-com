@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 140
-layout: article
+layout: post
 title: Last.fm are looking for PHP devs
 wordpress_url: http://www.sharp.id.au/lastfm-are-looking-for-php-devs/
 ---

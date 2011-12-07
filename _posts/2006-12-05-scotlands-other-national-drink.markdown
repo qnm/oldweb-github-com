@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 122
-layout: article
+layout: post
 title: Scotland's other national drink
 wordpress_url: http://www.sharp.id.au/scotlands-other-national-drink/
 ---

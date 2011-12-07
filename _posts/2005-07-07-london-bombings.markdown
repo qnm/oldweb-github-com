@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 60
-layout: article
+layout: post
 title: London Calling
 wordpress_url: http://jedi.cx/?p=60
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 68
-layout: article
+layout: post
 title: Even the police have to chill out sometimes
 wordpress_url: http://www.sharp.id.au/?p=68
 ---

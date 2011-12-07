@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 135
-layout: article
+layout: post
 title: Faster, and definately louder!
 wordpress_url: http://www.sharp.id.au/faster-and-definately-louder/
 ---

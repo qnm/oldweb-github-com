@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 98
-layout: article
+layout: post
 title: "            GoogleTalk now federating to the public Internet"
 wordpress_url: http://www.sharp.id.au/?p=98
 ---

@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 3
-layout: article
+layout: post
 title: DVD Ripping under Linux, part deux
 wordpress_url: http://sharp.id.au/blog/thoggen
 ---

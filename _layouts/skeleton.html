@@ -25,6 +25,7 @@
 	<link rel="stylesheet" href="/stylesheets/base.css">
 	<link rel="stylesheet" href="/stylesheets/skeleton.css">
 	<link rel="stylesheet" href="/stylesheets/layout.css">
+  <link rel="stylesheet" href="/stylesheets/qnm.css">
 	
 	<!-- Favicon
 	================================================== -->
@@ -40,26 +41,28 @@
 	<!-- Primary Page Layout
 	================================================== -->
 	
-	<div class="container">	
-		<div class="sixteen columns">
-      <header>
-			<h3>qnm.co</h3>
-			<hr />
-      </header>
-		</div>
-		<div class="three columns sidebar">
-      <nav>
-        <ul class="square">
-          <li id="home"><a href="/">Home</a></li>
-          <li id="articles"><a href="/all.html">Articles</a></li>
-          <li id="about"><a href="/about.html">About me</a></li>
-        </ul>
+	<div class="bgcontainer">	
+    <div class="container">	
+      <div class="sixteen columns">
+        <header>
+        <h3>qnm.co</h3>
+        <hr />
+        </header>
       </div>
-    </nav>
-		<div class="twelve columns content offset-by-one">
-      {{ content }}
-		</div>
-	</div><!-- container -->
+      <div class="three columns sidebar">
+        <nav>
+          <ul class="square">
+            <li id="home"><a href="/">Home</a></li>
+            <li id="articles"><a href="/all.html">Articles</a></li>
+            <li id="about"><a href="/about.html">About me</a></li>
+          </ul>
+        </div>
+      </nav>
+      <div class="twelve columns content offset-by-one">
+        {{ content }}
+      </div>
+    </div><!-- container -->
+	</div><!-- bgcontainer -->
 
 		
 		

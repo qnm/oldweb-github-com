@@ -1,6 +1,6 @@
 --- 
 wordpress_id: 34
-layout: article
+layout: post
 title: Todays links, brought to you by del.icio.us
 wordpress_url: http://sharp.id.au/blog/delicious/links_2005-05-08
 ---
