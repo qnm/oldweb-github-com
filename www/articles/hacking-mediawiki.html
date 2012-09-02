@@ -1,0 +1,132 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> 	<html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">	<!-- Force Latest IE rendering engine -->
+	<title>The Havers Of Rob Sharp</title>
+	<meta name="description" content="">
+	<meta name="author" content="Rob Sharp">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+	
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="/stylesheets/base.css">
+	<link rel="stylesheet" href="/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="/stylesheets/layout.css">
+  <link rel="stylesheet" href="/stylesheets/qnm.css">
+	
+	<!-- Favicon
+	================================================== -->
+	<link rel="shortcut icon" href="/images/favicon.ico">
+	
+</head>
+<body>
+
+
+
+
+
+	<!-- Primary Page Layout
+	================================================== -->
+	
+	<div class="bgcontainer">	
+    <div class="container">	
+      <div class="sixteen columns">
+        <header>
+        <h3>qnm.co</h3>
+        <hr />
+        </header>
+      </div>
+      <div class="three columns sidebar">
+        <nav>
+          <ul class="square">
+            <li id="home"><a href="/">Home</a></li>
+            <li id="articles"><a href="/all.html">Articles</a></li>
+            <li id="about"><a href="/about.html">About me</a></li>
+          </ul>
+        </div>
+      </nav>
+      <div class="twelve columns content offset-by-one">
+        <div>
+  <p>Mediawiki seems to be a great open-source project - it has a very large customer site (<a href="http://www.wikipedia.org">Wikipedia</a>), full time development and maintainence staff, yet still I struggled to find doco to enable me to customise it to my needs. I even got the standard RTFM from the IRC channel - great way to attract new developers, guys! All I wanted to do was update a wiki page from inside the application...</p>
+
+<p>Contrast this to my experience customising Gallery2, which was a much bigger problem - synchronise changes to data across a group of servers - and I got loads of great help from the IRC channel. We ended up with a more pragmatic solution (running G2 on its own box), but it's good to know the support is there when you need it.</p>
+
+<p>Anyway, for anyone who wants to know how to programatically update or append to a wiki page, here's whatI came up with:</p>
+
+<pre>$myNewContent = "Brillant!";</pre>
+
+
+
+
+<pre>$articleName = "User_talk:" . $wgUser->getName(); // get the user talk page for the logged in user</pre>
+
+
+<pre>$articleTitle = Title::newFromText($articleName); // create a wiki title name from the friendly name</pre>
+
+
+<pre>$articleToUpdate = new Article ($articleTitle); // get an article instance</pre>
+
+
+
+
+<pre>$currentContent = $articleToUpdate->getContentWithoutUsingSoManyDamnGlobals(); // i love comedy function names :-(
+</pre>
+
+
+<pre>$newContent = $currentContent . "\n" . $myNewContent; // create page content</pre>
+
+
+
+
+<pre>$articleToUpdate->quickEdit( $newContent ); // update the article with the new content</pre>
+
+
+<p>Caveat Emptor - this doesn't take into account revisions, so you can't rollback a page after editing. I'm working on that though...</p>
+
+</div>
+
+
+<div id="related">
+  <h3>Related Posts</h3>
+  <ul class="posts">
+    
+      <li><span>03 Sep 2012</span> &raquo; <a href="/articles/ruby-bundler-wrapper.html">Fun with Bundler and RVM</a></li>
+    
+      <li><span>25 Feb 2011</span> &raquo; <a href="/articles/new-beginnings.html">New Beginnings</a></li>
+    
+      <li><span>01 Nov 2010</span> &raquo; <a href="/articles/google-apps-account-check.html">Google Apps Account Check</a></li>
+    
+  </ul>
+</div>
+
+      </div>
+    </div><!-- container -->
+	</div><!-- bgcontainer -->
+
+		
+		
+		
+		
+	<!-- JS
+	================================================== -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+	<script>window.jQuery || document.write("<script src='/javascripts/jquery-1.5.1.min.js'>\x3C/script>")</script>
+	<script src="/javascripts/app.js"></script>
+	
+<!-- End Document
+================================================== -->
+</body>
+</html>

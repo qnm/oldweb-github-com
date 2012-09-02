@@ -1,0 +1,7 @@
+.bgcontainer {
+  background: url("/images/bg.png") repeat-y scroll 0 0 #FFFFFF;
+  position: relative;
+  width: 1006px;
+  margin: 0px auto;
+}
+

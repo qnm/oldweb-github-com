@@ -1,0 +1,118 @@
+<!doctype html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> 	<html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">	<!-- Force Latest IE rendering engine -->
+	<title>The Havers Of Rob Sharp</title>
+	<meta name="description" content="">
+	<meta name="author" content="Rob Sharp">
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+	
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="/stylesheets/base.css">
+	<link rel="stylesheet" href="/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="/stylesheets/layout.css">
+  <link rel="stylesheet" href="/stylesheets/qnm.css">
+	
+	<!-- Favicon
+	================================================== -->
+	<link rel="shortcut icon" href="/images/favicon.ico">
+	
+</head>
+<body>
+
+
+
+
+
+	<!-- Primary Page Layout
+	================================================== -->
+	
+	<div class="bgcontainer">	
+    <div class="container">	
+      <div class="sixteen columns">
+        <header>
+        <h3>qnm.co</h3>
+        <hr />
+        </header>
+      </div>
+      <div class="three columns sidebar">
+        <nav>
+          <ul class="square">
+            <li id="home"><a href="/">Home</a></li>
+            <li id="articles"><a href="/all.html">Articles</a></li>
+            <li id="about"><a href="/about.html">About me</a></li>
+          </ul>
+        </div>
+      </nav>
+      <div class="twelve columns content offset-by-one">
+        <div>
+  <p>UPDATED: For dev, you could also use Ruby Version Manager <a href="http://rvm.beginrescueend.com/">http://rvm.beginrescueend.com/</a></p>
+<p>Recently I discovered that Karmic ships with Ruby 1.8.7 - not a problem in itself, but if you're using ActionMailer with Google Mail, there's some big changes between how SMTP/TLS is handled on 1.8.6 vs 1.8.7 that cause things to break.</p>
+<p>I run Ruby Enterprise Edition on my web server - which is currently 1.8.6 - and so the code I had written and tested locally wouldn't run correctly on the server. I can easily install REE locally, but I'd like to hang on to the default ubuntu Ruby too. Thankfully, there's an easy solution</p>
+<p><span style="font-size: medium;">update-alternatives</span></p>
+<p>Let's create an alternative path for REE</p>
+<blockquote class="posterous_medium_quote">
+<p>sudo update-alternatives --install /usr/local/bin/ruby ruby /opt/ruby-enterprise/bin/ruby 50 --slave /usr/local/bin/erb erb /opt/ruby-enterprise/bin/erb --slave /usr/local/bin/gem gem /opt/ruby-enterprise/bin/gem --slave /usr/local/bin/irb irb /opt/ruby-enterprise/bin/irb --slave /usr/local/bin/rdoc rdoc /opt/ruby-enterprise/bin/rdoc --slave /usr/local/bin/ri ri /opt/ruby-enterprise/bin/ri --slave /usr/local/bin/testrb testrb /opt/ruby-enterprise/bin/testrb --slave /usr/local/bin/rake rake /opt/ruby-enterprise/bin/rake --slave /usr/local/bin/rails rails /opt/ruby-enterprise/bin/rails</p>
+</blockquote>
+<p>...and for MRI</p>
+<blockquote class="posterous_medium_quote">
+<p>sudo update-alternatives --install /usr/local/bin/ruby ruby /usr/bin/ruby 100 --slave /usr/local/bin/erb erb /usr/bin/erb --slave /usr/local/bin/gem gem /usr/bin/gem --slave /usr/local/bin/irb irb /usr/bin/irb --slave /usr/local/bin/rdoc rdoc /usr/bin/rdoc --slave /usr/local/bin/ri ri /usr/bin/ri --slave /usr/local/bin/testrb testrb /usr/bin/testrb --slave /usr/local/bin/rake rake /usr/bin/rake --slave /usr/local/bin/rails rails /usr/bin/rails</p>
+</blockquote>
+<p>Oddly, my Karmic install already had an alternative by gems, so I had to remove that first using</p>
+<blockquote class="posterous_short_quote">
+<p>sudo update-alternatives --remove-all gem</p>
+</blockquote>
+<p>I can now easily switch betwen them using</p>
+<blockquote class="posterous_short_quote">
+<p>sudo update-alternatives --config ruby</p>
+</blockquote>
+<p>Too easy!</p>
+
+</div>
+
+
+<div id="related">
+  <h3>Related Posts</h3>
+  <ul class="posts">
+    
+      <li><span>03 Sep 2012</span> &raquo; <a href="/articles/ruby-bundler-wrapper.html">Fun with Bundler and RVM</a></li>
+    
+      <li><span>25 Feb 2011</span> &raquo; <a href="/articles/new-beginnings.html">New Beginnings</a></li>
+    
+      <li><span>01 Nov 2010</span> &raquo; <a href="/articles/google-apps-account-check.html">Google Apps Account Check</a></li>
+    
+  </ul>
+</div>
+
+      </div>
+    </div><!-- container -->
+	</div><!-- bgcontainer -->
+
+		
+		
+		
+		
+	<!-- JS
+	================================================== -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+	<script>window.jQuery || document.write("<script src='/javascripts/jquery-1.5.1.min.js'>\x3C/script>")</script>
+	<script src="/javascripts/app.js"></script>
+	
+<!-- End Document
+================================================== -->
+</body>
+</html>
